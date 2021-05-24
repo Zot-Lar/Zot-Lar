@@ -1,6 +1,6 @@
 ### Hei Kaikille 👋
 
-<img src="https://raw.githubusercontent.com/Zot-Lar/Zot-Lar/master/RR5.png" width="1000">
+<img src="https://raw.githubusercontent.com/Zot-Lar/Zot-Lar/master/RR5.png" width="500">
 
 <!--
 **Zot-Lar/Zot-Lar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
