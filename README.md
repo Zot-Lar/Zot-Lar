@@ -1,6 +1,6 @@
 ### Hei Kaikille 👋
 
-![Weapon Render](https://raw.githubusercontent.com/Zot-Lar/Zot-Lar/master/RR5.png "width=10")
+![Weapon Render](https://raw.githubusercontent.com/Zot-Lar/Zot-Lar/master/RR5.png)
 
 <!--
 **Zot-Lar/Zot-Lar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
