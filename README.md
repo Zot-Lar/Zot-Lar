@@ -1,8 +1,11 @@
 ### Hei Kaikille 👋
 
-<img src="https://raw.githubusercontent.com/Zot-Lar/Zot-Lar/master/RR5.png" width="700">
+<img src="raw.githubusercontent.com/Zot-Lar/Zot-Lar/master/First_Char.png"width="700">
+<!-- <img src="https://raw.githubusercontent.com/Zot-Lar/Zot-Lar/master/RR5.png" width="700"> -->
 <!-- <img src="https://raw.githubusercontent.com/Zot-Lar/Zot-Lar/master/Marmoset Render 1_005 Huevete.png" width="700"> -->
 <!-- <img src="https://raw.githubusercontent.com/Zot-Lar/Zot-Lar/master/Aaron_Lara RR VI.png" width="700"> -->
+
+raw.githubusercontent.com/Zot-Lar/Zot-Lar/master/
 
 <!--
 **Zot-Lar/Zot-Lar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
