@@ -1,6 +1,6 @@
 ### Hei Kaikille 👋
 <img src="https://raw.githubusercontent.com/Zot-Lar/Zot-Lar/master/Present III Aaron lara tarjeta.png" width="700">
-<img src="https://raw.githubusercontent.com/Zot-Lar/Zot-Lar/master/First_Char.png" width="700">
+<img src="https://raw.githubusercontent.com/Zot-Lar/Zot-Lar/master/First_Char.png" width="500">
 <!-- <img src="https://raw.githubusercontent.com/Zot-Lar/Zot-Lar/master/RR5.png" width="700"> -->
 <!-- <img src="https://raw.githubusercontent.com/Zot-Lar/Zot-Lar/master/Marmoset Render 1_005 Huevete.png" width="700"> -->
 <!-- <img src="https://raw.githubusercontent.com/Zot-Lar/Zot-Lar/master/Aaron_Lara RR VI.png" width="700"> -->
