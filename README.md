@@ -1,6 +1,5 @@
 <h1 align="center">Hei Kaikille 🌮</h1>
 <h3 align="center"><img src="https://raw.githubusercontent.com/Zot-Lar/Zot-Lar/master/Present III Aaron lara tarjeta.png" width="700"></h3>
-<h3 align="center"><img src="https://raw.githubusercontent.com/Zot-Lar/Zot-Lar/master/First_Char.png" width="700"></h3>
 <h3 align="center">I'm a 3D artist and novice programmer at Reboot Project</h3>
 
 - 🔭 I’m currently working on **Apps development**
