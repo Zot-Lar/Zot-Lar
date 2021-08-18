@@ -2,7 +2,17 @@
 <h1 align="center">Hi 👋, I'm Aarón Lara</h1>
 <h3 align="center"><img src="https://raw.githubusercontent.com/Zot-Lar/Zot-Lar/master/Present III Aaron lara tarjeta.png" width="700"></h3>
 <h3 align="center"><img src="https://raw.githubusercontent.com/Zot-Lar/Zot-Lar/master/First_Char.png" width="700"></h3>
+<h3 align="center">I'm a 3D artist and novice programmer at Reboot Project</h3>
 
+- 🔭 I’m currently working on **Apps development**
+
+- 🌱 I’m currently learning **Substance Painter, Digital Sculpting, Rigg, Dart and Flutter**
+
+- 👯 I’m looking to collaborate on **3D modeling projects in a video game company**
+
+- 👨‍💻 All of my projects are available at [https://www.artstation.com/zot-lar](https://www.artstation.com/zot-lar)
+
+- ⚡ Fun fact **I was a priest of several pharaohs in ancient Egypt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
