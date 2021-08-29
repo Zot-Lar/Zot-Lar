@@ -3,7 +3,7 @@
 <h3 align="center">I'm a 3D artist and novice programmer at Reboot Project</h3>
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AaronLars77">
 
-- 🔭 I’m currently working on **Apps development**
+- 🍹 I’m currently working on **Apps development**
 
 - 🌱 I’m currently learning **Substance Painter, Digital Sculpting, Rigg, Dart and Flutter**
 
