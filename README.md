@@ -5,7 +5,7 @@
 
 - 🍹 I’m currently working on **Apps development**
 
-- 🌱 I’m currently learning **Substance Painter, Digital Sculpting, Rigg, Dart and Flutter**
+- 🍣 I’m currently learning **Substance Painter, Digital Sculpting, Rigg, Dart and Flutter**
 
 - 👯 I’m looking to collaborate on **3D modeling projects in a video game company**
 
