@@ -9,7 +9,7 @@
 
 - 🌮 I’m looking to collaborate on **3D modeling projects in a video game company**
 
-- 👨‍💻 All of my projects are available at [https://www.artstation.com/zot-lar](https://www.artstation.com/zot-lar)
+- 👑 All of my projects are available at [https://www.artstation.com/zot-lar](https://www.artstation.com/zot-lar)
 
 - 🏆 Fun fact **I was a priest of several pharaohs in ancient Egypt**
 
