@@ -3,9 +3,9 @@
 <h3 align="center">I'm a 3D artist and novice programmer at Reboot Project</h3>
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AaronLars77">
 
-- 📲 I’m currently working on **Apps development in Flutter**
+- 📲 I’m currently working as **3D Artist**
 
-- 🧠 I’m currently learning **Substance Painter, Digital Sculpting, Rigg, Dart and Flutter**
+- 🧠 I’m currently learning **Maya, Substance Painter, Digital Sculpting, Rigg, Dart and Flutter**
 
 - 🍤 I’m looking to collaborate on **3D modeling projects in a video game company**
 
